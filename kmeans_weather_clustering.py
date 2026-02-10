@@ -31,10 +31,10 @@ warnings.filterwarnings("ignore")
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
-WEATHER_CSV = "military_bases_weather.csv"
-DAILY_CSV   = "military_bases_daily_weather.csv"
-OUTPUT_CLUSTERED = "military_bases_clustered.csv"
-OUTPUT_SUMMARY   = "cluster_summary.csv"
+WEATHER_CSV = "military_bases_weather_v2.csv"
+DAILY_CSV   = "military_bases_daily_weather_v2.csv"
+OUTPUT_CLUSTERED = "military_bases_clustered_v2.csv"
+OUTPUT_SUMMARY   = "cluster_summary_v2.csv"
 
 MAX_K = 15          # max clusters to test in elbow method
 RANDOM_STATE = 42

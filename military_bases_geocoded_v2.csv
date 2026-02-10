@@ -1,0 +1,826 @@
+OBJECTID,Site_Name,State,Operational_Status,Reporting_Component,Is_Joint_Base,latitude,longitude
+1,Devens Reserve Forces Tng Area,ma,act,usar,no,42.532722222222226,-71.63205555555555
+2,Fort Campbell,tn,act,usa,no,36.64263636363636,-87.59872727272729
+3,NG Snake Creek TS Miramar,fl,act,armyNationalGuard,no,25.962750000000003,-80.3025
+4,Piñon Canyon Maneuver Site,co,act,usa,no,37.52754166666667,-103.84145833333332
+5,Stewart Annex,ny,act,usa,no,41.493249999999996,-74.09475
+6,NG Sandson AASF,va,act,armyNationalGuard,no,37.493,-77.31325000000001
+7,NG AASF02 Birmingham,al,act,armyNationalGuard,no,33.57125,-86.74975
+8,Aliamanu Military Reservation,hi,act,usa,no,21.363750000000003,-157.909375
+9,Allen Stagefield AL,al,act,usa,no,31.231250000000003,-85.6525
+10,Anniston Army Depot,al,act,usa,no,33.636117647058825,-85.95017647058823
+11,NG Arden Hills Army Training Site,mn,act,armyNationalGuard,no,45.09283333333334,-93.16199999999999
+12,Arlington National Cemetery,va,act,usa,no,38.881125000000004,-77.07206249999999
+14,NG Auburn Training Site,me,act,armyNationalGuard,no,44.087,-70.28399999999999
+15,NG Bangor Training Site,me,act,armyNationalGuard,no,44.809416666666664,-68.83183333333334
+17,NG Beightler Armory,oh,act,armyNationalGuard,no,40.0895,-83.06825
+22,Naval Research Laboratory – Blossom Point,md,act,usa,no,38.4226,-77.0922
+23,Blue Grass Army Depot,ky,act,usa,no,37.702625,-84.219
+24,NG Bog Brook Training Site,me,act,armyNationalGuard,no,44.3983125,-70.9348125
+25,NG Bremerton,wa,act,armyNationalGuard,no,47.554249999999996,-122.6815
+26,Brown 4b Stagefield AL,al,act,usa,no,31.3865,-85.97200000000001
+27,Cairns Basefield AL,al,act,usa,no,31.27388888888889,-85.72011111111111
+29,NG Camp Ashland,ne,act,armyNationalGuard,no,41.07925,-96.33775
+30,NG Camp Atterbury,in,act,armyNationalGuard,no,39.32133333333333,-86.04233333333333
+32,Camp Dodge,ia,act,armyNationalGuard,no,41.8533103448276,-93.81485057471266
+37,NG Camp Joseph T Robinson,ar,act,armyNationalGuard,no,34.86661538461538,-92.30107692307692
+39,Camp MacKall,nc,act,usa,no,35.04046666666667,-79.47579999999999
+43,NG State Military Reservation Camp Pendleton,va,act,armyNationalGuard,no,36.817499999999995,-75.981
+44,NG Camp Perry Joint Training Center,oh,act,armyNationalGuard,no,41.544399999999996,-83.0222
+47,NG Camp Ripley,mn,act,armyNationalGuard,no,46.221969696969694,-94.45731818181818
+48,NG Camp Sherman Joint Training Center,oh,act,armyNationalGuard,no,39.35549999999999,-82.9555
+49,NG Camp Smith Tng Site,ny,act,armyNationalGuard,no,41.3146,-73.9472
+52,NG Camp Williams Tomah MTA,wi,act,armyNationalGuard,no,43.92824999999999,-90.2695
+54,Carlisle Barracks,pa,act,usa,no,40.207125000000005,-77.1685
+55,NG Carville Gillis Long Center,la,act,armyNationalGuard,no,30.19875,-91.1275
+56,Military Ocean Terminal Concord,ca,act,usa,no,38.050792207792206,-122.01429870129873
+58,NG CTC Camp Dawson-Kingwood,wv,act,armyNationalGuard,no,39.41423076923078,-79.67238461538462
+59,NG CTC Fort Custer Trng Center,mi,act,armyNationalGuard,no,42.30839999999999,-85.3112
+60,Camp Frank D Merrill,ga,act,usa,no,34.629000000000005,-84.10225
+62,Defense Distrib Depot Susq,pa,act,usa,no,40.210499999999996,-76.83824999999999
+63,Defense Supply Center Columbus,oh,act,usa,no,39.980000000000004,-82.90450000000001
+64,Tooele Army Depot ,ut,act,usa,no,40.49689285714286,-112.38178571428571
+65,Destin Moreno Point,fl,act,usa,no,30.41125,-86.49925000000002
+66,Detroit Arsenal,mi,act,usa,no,42.497,-83.042
+67,Dillingham Mil Res,hi,act,usa,no,21.578799999999998,-158.20104999999998
+68,West Desert Test Center,ut,act,usa,no,40.17961111111111,-113.16216666666666
+69,NG Duluth NG Armory,mn,act,armyNationalGuard,no,46.8335,-92.15899999999999
+70,NG Edgemeade TS Mtn Home,id,act,armyNationalGuard,no,43.144,-115.654
+71,NG Esler Field,la,act,armyNationalGuard,no,31.4,-92.299
+73,NG Floyd Edsall Training Center,nv,act,armyNationalGuard,no,36.2872,-115.043
+74,Fort Walker,va,act,usa,no,38.11788461538461,-77.26961538461538
+75,Fort Belvoir,va,act,usa,no,38.71223404255319,-77.16248936170213
+76,Fort Benjamin Harrison,in,clsd,usa,no,39.8610625,-86.01175
+77,Fort Benning,ga,act,usa,no,32.37426829268293,-84.87263414634147
+78,Fort Bliss,tx,act,usa,no,31.958466165413537,-106.31060150375941
+79,Fort Buchanan,pr,act,usar,no,18.4145,-66.1225
+80,Fort Carson,co,act,usa,no,38.639466666666664,-104.80713333333333
+82,Fort De Russy,hi,act,usa,no,21.28175,-157.83375
+83,Fort Detrick,md,act,usa,no,39.44425,-77.422
+84,Fort Meade,md,act,usa,no,39.09045161290323,-76.74406451612903
+85,Fort Eisenhower,ga,act,usa,no,33.380250000000004,-82.1995625
+87,Fort Hamilton,ny,act,usa,no,40.60874999999999,-74.02725
+88,Fort Cavazos,tx,act,usa,no,31.142976744186043,-97.71801162790698
+89,Fort Huachuca,az,act,usa,no,31.57116,-110.31392
+90,Fort Hunter Liggett,ca,act,usar,no,35.96237037037037,-121.20424074074073
+92,Fort Jackson,sc,act,usa,no,34.05277777777777,-80.834
+93,Fort Knox,ky,act,usa,no,37.90835555555555,-85.94493333333334
+95,Fort Gregg-Adams,va,act,usa,no,37.26648,-77.33572
+96,Fort Leonard Wood,mo,act,usa,no,37.697529411764705,-92.1584705882353
+98,Fort McCoy,wi,act,usar,no,44.012884615384614,-90.69007692307693
+99,Fort Monroe,va,care,usa,no,37.023875000000004,-76.30075
+100,Joint Base Myer-Henderson Hall,va,act,usa,yes,38.873999999999995,-77.045375
+101,NG Fort Barfoot MTC & FMS 15,va,act,armyNationalGuard,no,37.049076923076925,-77.9538717948718
+102,Fort Johnson,la,act,usa,no,31.071511705685616,-93.13882608695653
+103,Fort Riley,ks,act,usa,no,39.154761904761905,-96.81466666666665
+104,Fort Novosel ,al,act,usa,no,31.418449999999996,-85.75880000000001
+105,Fort Shafter,hi,act,usa,no,21.34125,-157.8855
+106,Fort Sill,ok,act,usa,no,34.71233333333334,-98.50186666666667
+107,Fort Stewart,ga,act,usa,no,31.98685714285714,-81.65071428571427
+108,Fort Wainwright,ak,act,usa,no,64.31633540372671,-146.88216770186338
+113,NG Ft Allen Rq 177,pr,act,armyNationalGuard,no,18.013166666666667,-66.50466666666667
+114,NG Ft Ruger,hi,act,armyNationalGuard,no,21.263708333333334,-157.79975000000002
+115,Goldberg Stagefield AL,al,act,usa,no,31.4145,-85.46375
+116,NG Grand Island AASF/RC,ne,act,armyNationalGuard,no,40.961000000000006,-98.2985
+117,Grand Prairie Reserve Complex,tx,act,usar,no,32.739999999999995,-96.95799999999998
+118,Green River Test Complex UT,ut,semi,usa,no,38.969375,-110.11425
+120,NG GUARNG Barrigada Complex,gu,act,armyNationalGuard,no,13.4745,144.8105
+122,NG Hammond Airport,la,act,armyNationalGuard,no,30.5245,-90.41375
+124,Hawthorne Army Depot,nv,act,usa,no,38.51678,-118.65317999999999
+125,Helemano Military Reservation,hi,act,usa,no,21.538249999999998,-158.02075
+126,NG Helena Aviation RC- AASF- C12,mt,act,armyNationalGuard,no,46.60775,-111.97000000000001
+127,Highbluff Stagefield AL,al,act,usa,no,31.1515,-85.737
+129,NG Hollis Plains Training Site,me,act,armyNationalGuard,no,43.666,-70.66600000000001
+130,Holston Army Ammunition Plant,tn,act,usa,no,36.53118421052631,-82.59678947368423
+131,Hunt Stagefield AL,al,act,usa,no,31.382500000000004,-85.58025
+133,Indiana Army Ammunition Plant,in,clsd,usa,no,38.4518,-85.6014
+134,NG Indianapolis 38 ID,in,act,armyNationalGuard,no,39.743249999999996,-86.228
+135,Iowa Army Ammunition Plant,ia,act,usa,no,40.791000000000004,-91.25714285714287
+136,NG ITC Camp San Luis Obisbo,ca,act,armyNationalGuard,no,35.33384615384615,-120.70230769230771
+137,NG Jackson Airport Armory,tn,act,armyNationalGuard,no,35.59775,-88.912
+138,NG Jackson Bks,la,act,armyNationalGuard,no,29.96041666666667,-90.00558333333333
+139,Jefferson Proving Ground,in,clsd,usa,no,38.84640983606559,-85.40793442622949
+140,NG Montgomery JFHQ AFRC / CSMS 01,al,act,armyNationalGuard,no,32.40475,-86.25850000000001
+141,NG Johnson City Gray,tn,act,armyNationalGuard,no,36.420500000000004,-82.48899999999999
+142,Kahuku Tng Area,hi,act,usa,no,21.666777777777774,-158.00255555555557
+143,NG Kalaeloa,hi,act,armyNationalGuard,no,21.318083333333334,-158.06658333333334
+144,Kawaihae Mil Reserve,hi,act,usa,no,20.0325,-155.82925
+145,Kilauea Mil Reserve,hi,act,usa,no,19.4345,-155.27325
+146,Kipapa Ammo Storage Site,hi,excs,usa,no,21.436375,-158.00475
+147,Lake City Army Ammunition Plant,mo,act,usa,no,39.0952,-94.2588
+148,Lake Of The Ozarks Recreation,mo,act,usa,no,38.086749999999995,-92.604
+150,NG Lansing Joint Forces Readiness Center,mi,act,armyNationalGuard,no,42.7685,-84.56925
+151,NG Las Cruces,nm,act,armyNationalGuard,no,32.276250000000005,-106.934
+152,NG Lawrenceville,nj,act,armyNationalGuard,no,40.269,-74.746
+153,Letterkenny Army Depot,pa,act,usa,no,40.009380952380944,-77.6732380952381
+154,NG Lexington AASF No 1,ok,act,armyNationalGuard,no,35.025999999999996,-97.23250000000002
+155,NG Lincoln AASF/Readiness Center,ne,act,armyNationalGuard,no,40.837500000000006,-96.75399999999999
+156,Longhorn AAP,tx,excs,usa,no,32.6760625,-94.14085416666667
+157,Louisville Stagefield AL,al,act,usa,no,31.8155,-85.65175
+158,NG Anthony Cometa Complex,nv,act,armyNationalGuard,no,36.0175,-115.20125
+161,Makua Mil Reserve,hi,act,usa,no,21.538538461538465,-158.22899999999998
+162,NG Marseilles (MTA Tng Area),il,act,armyNationalGuard,no,41.2922,-88.67819999999999
+164,McAlester Army Ammunition Plant,ok,act,usa,no,34.831888888888884,-95.93288888888888
+165,NG McConnelsville Training Site,oh,act,armyNationalGuard,no,39.665,-81.84075
+167,NG Mead TS/FMS 06/Utes 02,ne,act,armyNationalGuard,no,41.18788888888889,-96.46088888888887
+168,Milan AAP,tn,act,usa,no,35.89844444444444,-88.68996296296297
+169,Military Ocean Terminal Sunny Point,nc,act,usa,no,34.03624,-77.96108
+170,NG Mitchell Complex,sd,act,armyNationalGuard,no,43.7625,-98.0435
+171,NG MTA Camp Clark Nevada,mo,act,armyNationalGuard,no,37.8218,-94.295
+173,NG MTA Camp Curtis Guil,ma,act,armyNationalGuard,no,42.55075,-71.07175
+176,NG MTA Camp Santiago,pr,act,armyNationalGuard,no,18.026375,-66.27125
+179,NG MTA Ft Wm Henry Harrison,mt,act,armyNationalGuard,no,46.62273333333333,-112.11540000000001
+182,Camp Williams,ut,act,armyNationalGuard,no,40.4399375,-111.9805625
+183,Camp Grayling,mi,act,armyNationalGuard,no,44.70958898305086,-84.67983898305083
+184,Camp Roberts,ca,act,armyNationalGuard,no,35.754111111111115,-120.78816666666668
+186,NG Nashville,tn,act,armyNationalGuard,no,36.09775,-86.7595
+188,NG Alcantra Armory Complex,ak,act,armyNationalGuard,no,61.602999999999994,-149.3675
+192,NG Youngstown Tng Site,ny,act,armyNationalGuard,no,43.2358,-78.976
+193,NG Training Site,nh,act,armyNationalGuard,no,43.275,-71.12349999999999
+194,NG Norman CSMS,ok,act,armyNationalGuard,no,35.26475,-97.48100000000001
+195,Fort Irwin,ca,act,usa,no,35.300393939393935,-116.62124242424241
+197,NG Santa Fe - Onate Complex TS,nm,act,armyNationalGuard,no,35.570875,-106.084125
+198,NG Camp Orchard Cantonement Area,id,act,armyNationalGuard,no,43.299749999999996,-116.03975
+199,Orchard Combat Training Center,id,act,armyNationalGuard,no,43.259217391304354,-116.13004347826084
+201,NG Williamstown,wv,act,armyNationalGuard,no,39.35425,-81.44200000000001
+202,Parks Reserve Forces Tng Area,ca,act,usar,no,37.72877777777777,-121.88833333333332
+204,Pine Bluff Arsenal,ar,act,usa,no,34.3425,-92.10037500000001
+205,Pohakuloa Training Area,hi,act,usa,no,19.767166666666665,-155.62666666666667
+206,Presidio of Monterey,ca,act,usa,no,36.602000000000004,-121.9155
+207,NG Thunderbird Youth Academy,ok,act,armyNationalGuard,no,36.295500000000004,-95.2885
+208,Pueblo Chemical Depot,co,act,usa,no,38.31271428571428,-104.31542857142857
+209,NG RW Shepherd Hope Hull,al,act,armyNationalGuard,no,32.289,-86.39425
+210,Radford Army Ammunition Plant,va,act,usa,no,37.19146666666666,-80.53826666666666
+211,NG Raleigh,nc,act,armyNationalGuard,no,35.80775,-78.71137499999999
+212,NG Camp Ravenna Joint Military Training Center,oh,act,armyNationalGuard,no,41.20966666666667,-81.09866666666667
+213,Red River Army Depot,tx,act,usa,no,33.4386,-94.34960000000001
+214,Redstone Arsenal,al,act,usa,no,34.65942857142857,-86.65035714285713
+215,Fort Detrick Forest Glen Annex,md,act,usa,no,39.009,-77.054625
+216,Fort Detrick Glen Haven Annex,md,act,usa,no,39.033874999999995,-77.041625
+217,NG Rickenbacker,oh,act,armyNationalGuard,no,39.806,-82.9525
+218,NG Rio Rancho TS,nm,act,armyNationalGuard,no,35.3735,-106.65350000000001
+219,Rivanna Station,va,act,usa,no,38.1565,-78.41475
+220,Riverbank AAP,ca,clsd,usa,no,37.714,-120.9195
+221,NG Rochester NGA and OMS 2,mn,act,armyNationalGuard,no,43.996500000000005,-92.43175
+222,NG Rosemount NG Armory,mn,act,armyNationalGuard,no,44.747749999999996,-93.1275
+223,Runkle Stagefield AL,al,act,usa,no,31.33925,-86.09175
+225,NG Saint George/FMS 5B,ut,act,armyNationalGuard,no,37.034,-113.54700000000001
+227,Savanna Depot Act,il,clsd,usa,no,42.212799999999994,-90.30020000000002
+229,Scranton Army Ammunition Plant,pa,act,usa,no,41.40475,-75.6665
+230,NG Sea Girt  NJ NGTC,nj,act,armyNationalGuard,no,40.12325,-74.0355
+232,NG Shelbyville,in,act,armyNationalGuard,no,39.5785,-85.8115
+233,Shell Basefield AL,al,act,usa,no,31.36375,-85.85
+234,Sierra Army Depot,ca,act,usa,no,40.210454545454546,-120.13772727272726
+237,Skelly Stagefield AL,al,act,usa,no,31.28725,-86.131
+238,NG Camp Beauregard,la,act,armyNationalGuard,no,31.3755,-92.39450000000001
+239,Combat Capabilities Development Command Soldier Center,ma,act,usa,no,42.2895,-71.36275
+240,NG Sparta Armory,il,act,armyNationalGuard,no,38.153999999999996,-89.72887499999999
+241,NG Spring City Readiness Center,pa,act,armyNationalGuard,no,40.19025,-75.5555
+242,NG Springfield (TS Cp Lincoln),il,act,armyNationalGuard,no,39.82525,-89.66874999999999
+243,NG St Cloud AASF,mn,act,armyNationalGuard,no,45.53975,-94.05525
+244,NG St Cloud NG Armory,mn,act,armyNationalGuard,no,45.565,-94.176
+245,Stinson 5AB Stagefield AL,al,act,usa,no,31.359250000000003,-86.0135
+247,Tac X Stagefield AL,al,act,usa,no,31.121750000000002,-85.97875
+248,Tobyhanna Army Depot,pa,act,usa,no,41.196666666666665,-75.42666666666666
+250,Toth Stagefield AL,al,act,usa,no,31.23,-85.55924999999999
+251,Tripler Army Medical Center,hi,act,usa,no,21.360416666666666,-157.887
+252,NG Los Alamitos JFTB,ca,act,armyNationalGuard,no,33.7918,-118.05199999999999
+254,NG TS Camp Johnson,vt,act,armyNationalGuard,no,44.501000000000005,-73.16625
+255,NG TS Mark Twain Natl Forest Wapp,mo,act,armyNationalGuard,no,36.89483333333334,-90.28666666666669
+258,NG TS Keaukaha Mil Res,hi,act,armyNationalGuard,no,19.709625000000003,-155.042375
+259,Joint Systems Manufacturing Center - Lima,oh,act,usa,no,40.699250000000006,-84.138
+260,Adelphi Laboratory Center,md,act,usa,no,39.031,-76.964
+261,USA Field Station Kunia,hi,act,usa,no,21.475500000000004,-158.05349999999999
+262,Joliet USARC/JTA,il,act,usar,no,41.423249999999996,-88.14408333333334
+263,USMCB Camp Pendleton,ca,act,usar,no,33.21275,-117.398
+265,NG VTS Catoosa,ga,act,armyNationalGuard,no,34.9435,-85.05675
+267,NG VTS Smyrna,tn,act,armyNationalGuard,no,36.01353846153846,-86.50307692307692
+268,W Silver Spring Complex,wi,act,usar,no,43.122,-87.97825
+272,NG West Camp,sd,act,armyNationalGuard,no,44.073,-103.30675
+273,West Point Military Reservation,ny,act,usa,no,41.37079411764706,-74.00358823529412
+274,NG Westminster Training Site,vt,act,armyNationalGuard,no,43.08625,-72.45025
+276,White Sands Missile Range,nm,act,usa,no,33.07150000000001,-106.45942647058824
+277,Yuma Proving Ground,az,act,usa,no,33.01275,-114.15682499999998
+279,NG MTA Camp Butner,nc,act,armyNationalGuard,no,36.18659999999999,-78.78320000000001
+280,NG Springfield AVCRAD (New),mo,act,armyNationalGuard,no,37.25375,-93.39175
+281,Muscatatuck Urban Training Center,in,act,armyNationalGuard,no,39.0536,-85.52720000000001
+282,NG Cambridge Springs Readiness Center and FMS 5,pa,act,armyNationalGuard,no,41.79325,-80.049
+285,NG Jackson County AFRC,wv,act,armyNationalGuard,no,38.89725,-81.83737500000001
+286,NG Elkins AFRC,wv,act,armyNationalGuard,no,38.9555,-79.979
+287,NG Muskogee AFRC,ok,act,armyNationalGuard,no,35.66074999999999,-95.37275
+288,NG Clarke Range Complex,al,act,armyNationalGuard,no,33.71557142857143,-85.9472857142857
+289,NG Collegeville FMS 4,pa,act,armyNationalGuard,no,40.21475,-75.42725000000002
+291,NG Knightstown,in,act,armyNationalGuard,no,39.7735,-85.51525000000001
+292,Fort Bragg,nc,act,usa,no,35.16794117647059,-79.03186274509804
+293,March ARB,ca,act,afr,no,33.88194444444444,-117.27405555555555
+294,Tinker Air Force Base,ok,act,usaf,no,35.40261538461539,-97.38584615384616
+295,Dover Air Force Base,de,act,usaf,no,39.121,-75.4647894736842
+296,Schriever Space Force Base,co,act,usaf,no,38.80219999999999,-104.523
+298,Minn-St Paul,mn,act,afr,no,44.8945,-93.21199999999999
+299,Dobbins ARB,ga,act,afr,no,33.91751219512195,-84.52612195121952
+300,McGhee Tyson Airport,tn,act,airNationalGuard,no,35.814625,-84.0
+301,Keesler AFB,ms,act,usaf,no,30.410624999999996,-88.91041666666666
+302,Dyess Air Force Base,tx,act,usaf,no,32.43518181818182,-99.84854545454546
+303,Westover ARB,ma,act,afr,no,42.19728571428572,-72.53985714285714
+305,Grissom ARB,in,act,afr,no,40.6601,-86.14129999999999
+307,Maxwell-Gunter Air Force Base,al,act,usaf,no,32.39915384615385,-86.28961538461539
+308,Moody Air Force Base,ga,act,usaf,no,30.981173913043477,-83.18495652173915
+309,Whiteman Air Force Base,mo,act,usaf,no,38.734307692307695,-93.5706153846154
+310,Hanscom Air Force Base,ma,act,usaf,no,42.468625,-71.2825
+311,Wright-Patterson Air Force Base,oh,act,usaf,no,39.80072222222222,-84.07188888888889
+312,McConnell AFB,ks,act,usaf,no,37.62820000000001,-97.24759999999999
+313,Barksdale Air Force Base,la,act,usaf,no,32.5058888888889,-93.60666666666667
+314,Little Rock Air Force Base,ar,act,usaf,no,34.9004,-92.1425
+315,Sheppard AFB,tx,act,usaf,no,33.984899999999996,-98.5092
+316,Laughlin AFB,tx,act,usaf,no,29.30758823529412,-100.71541176470589
+319,Hill Air Force Base,ut,act,usaf,no,41.122368421052634,-111.97484210526315
+320,Joint Base San Antonio,tx,act,usaf,yes,29.530580882352943,-98.34605147058825
+321,USAF Academy Auxiliary Airfield,co,act,usaf,no,38.7655,-104.30250000000001
+324,Eglin Air Force Base,fl,act,usaf,no,30.369106250000005,-86.32619374999999
+326,Tyndall Air Force Base,fl,act,usaf,no,30.05771875,-85.57284375
+327,Cheyenne Mountain Space Force Station,co,act,usaf,no,38.742999999999995,-104.8415
+328,Peterson Space Force Base,co,act,usaf,no,38.8269,-104.69009999999999
+329,Davis-Monthan Air Force Base,az,act,usaf,no,32.1641,-110.85
+330,Seymour Johnson Air Force Base,nc,act,usaf,no,35.34583333333333,-77.96066666666667
+331,Charlotte/Douglas IAP,nc,act,airNationalGuard,no,35.2155,-80.92975
+332,Dare County Range,nc,act,usaf,no,35.70469999999999,-75.8884
+333,Blakeslee Air Force Recreation Area,nc,act,usaf,no,33.9815,-77.916
+334,St Louis Air Force Station,mo,act,usaf,no,38.590625,-90.208375
+335,W K Kellogg,mi,act,airNationalGuard,no,42.316,-85.25099999999999
+336,Eglin AFB Site 2 Santa Rosa Island,fl,act,usaf,no,30.396,-86.706
+338,Poinsett Electronic Combat Range,sc,act,usaf,no,33.80416666666667,-80.48199999999999
+339,New Boston Air Station,nh,act,usaf,no,42.9388,-71.6366
+340,Hurlburt Field,fl,act,usaf,no,30.43683333333333,-86.69816666666667
+341,Robins AFB,ga,act,usaf,no,32.6198,-83.5846
+342,Joint Base Andrews,md,act,usaf,yes,38.81033333333334,-76.87150000000001
+343,Vance Air Force Base,ok,act,usaf,no,36.3323,-97.9154
+344,Newington Defense Fuel Support Point,nh,act,usaf,no,43.105999999999995,-70.7955
+345,Mountain Home Air Force Base,id,act,usaf,no,43.0524,-115.87179999999998
+346,Clear Space Force Station,ak,act,usaf,no,64.29242857142857,-149.16028571428572
+348,Cavalier Space Force Station,nd,act,usaf,no,48.72475,-97.90525
+349,DFAS Annex,me,act,usaf,no,46.933,-67.8945
+350,Saylor Creek Air Force Range,id,act,usaf,no,42.6998,-115.5409
+351,Cannon AFB Site 2,nm,act,usaf,no,34.4095,-103.32849999999999
+352,Pittsburgh IAP ARS,pa,act,afr,no,40.495125,-80.211
+353,Arnold Air Force Base,tn,act,usaf,no,35.35376,-86.06388000000001
+354,Scott Air Force Base,il,act,usaf,no,38.544,-89.857
+355,The Farish Memorial Recreational Annex,co,act,usaf,no,38.997625,-104.99937499999999
+356,Eglin Air Force Auxiliary Field 6,fl,act,usaf,no,30.6358,-86.742
+357,Oliktok Long Range Radar Site,ak,act,usaf,no,70.49925,-149.877
+358,Birch Lake Recreation Annex,ak,act,usaf,no,64.318,-146.64525
+359,Holloman Air Force Base,nm,act,usaf,no,32.89733333333333,-106.1179696969697
+360,King Salmon Long Range Radar Site,ak,act,usaf,no,58.68308333333332,-156.63710416666666
+361,The Barry M Goldwater Air Force Range,az,act,usaf,no,32.649666666666675,-112.8934074074074
+362,Los Angeles Air Force Base,ca,act,usaf,no,33.988125,-118.41499999999999
+363,Niagara Falls,ny,act,afr,no,43.11125,-78.936625
+364,MacDill Air Force Base,fl,act,usaf,no,27.856899999999996,-82.50559999999999
+365,Haarp Research Station,ak,act,usaf,no,62.40200000000001,-145.14600000000002
+366,Vandenberg Space Force Base,ca,act,usaf,no,34.70694594594595,-120.54121621621623
+367,Columbus Air Force Base,ms,act,usaf,no,33.38909090909091,-88.50127272727273
+368,Fort Yukon Long Range Radar Site,ak,act,usaf,no,66.56075,-145.2035
+369,Los Angeles Space Force Annex No4,ca,act,usaf,no,33.85875,-118.23599999999999
+370,Bellows,hi,act,usaf,no,21.3625,-157.71025
+371,Point Barrow Long Range Radar Site,ak,act,usaf,no,71.328,-156.63175
+372,Norwalk 2,ca,act,afr,no,33.891999999999996,-118.07
+374,Kegelman Air Force Auxiliary Field,ok,act,usaf,no,36.73616666666667,-98.1225
+376,Air Force Maui Optical and Supercomputing Site,hi,act,usaf,no,20.747749999999996,-156.4355
+377,Marine Corps Logistics Base Albany,ga,act,usmc,no,31.551,-84.0606
+381,Marine Corps Air Station Beaufort,sc,act,usmc,no,32.467126436781605,-80.72111494252874
+383,Bridgeport,ca,act,usmc,no,38.35551428571429,-119.52719999999998
+384,Marine Corps Air Station Cherry Point,nc,act,usmc,no,34.914857142857144,-76.7330238095238
+390,Marine Corps Air Station New River,nc,act,usmc,no,34.67638775510204,-77.4438775510204
+393,Syracuse MCRC,ny,act,usmcr,no,43.09925,-76.12275
+398,Marine Corps Air Ground Combat Center Twentynine Palms,ca,act,usmc,no,34.466526315789466,-116.2518947368421
+399,Marine Corps Air Station Yuma,az,act,usmc,no,32.66077777777778,-114.59055555555557
+400,Barry Goldwater Range,az,act,usmc,no,32.611105263157896,-113.95836842105263
+402,Elizabeth Rvr Channel,va,act,usn,no,36.8675,-76.333
+403,CSO Barbers Point HI,hi,care,usn,no,21.318107142857144,-158.0540357142857
+404,Makaha Ridge,hi,act,usn,no,22.13075,-159.72475
+405,Pacific Missile Range Facility,hi,act,usn,no,22.0375,-159.77689999999998
+406,NNSY St Helena,va,act,usn,no,36.826,-76.289
+407,St Juliens Creek East,va,act,usn,no,36.790000000000006,-76.30950000000001
+408,NAVSUPPACT Norfolk NSY,va,act,usn,no,36.81975,-76.298
+409,Naval Station Great Lakes IL,il,act,usn,no,42.312,-87.839
+410,Naval Submarine Base New London,ct,act,usn,no,41.40325,-72.08212499999999
+411,Allegany Ballistics Lab,wv,act,usn,no,39.548500000000004,-78.84875
+412,Naval Station Newport,ri,act,usn,no,41.53125,-71.31325000000001
+413,Naval Air Station Oceana Dam Neck Annex,va,act,usn,no,36.78566666666667,-75.96744444444444
+414,Gould Island RI,ri,act,usn,no,41.537,-71.34525000000001
+415,NWIRP Bedford MA,ma,clsd,usn,no,42.477,-71.289
+416,Northwest Chesapeake VA,va,act,usn,no,36.561,-76.26559999999999
+417,Cheatham Annex,va,act,usn,no,37.28425,-76.626
+418,NNSY South Gate,va,act,usn,no,36.80475,-76.29575
+419,Portsmouth Naval Shipyard,me,act,usn,no,42.996750000000006,-71.07537500000001
+420,Naval Weapons Station Yorktown,va,act,usn,no,37.24235714285714,-76.5442857142857
+421,Det Phil Pny Annex,pa,act,usn,no,39.89041666666666,-75.17405555555555
+422,Waterfront,nj,act,usn,no,40.421749999999996,-74.07025
+423,Fort Sheridan,il,act,usn,no,42.213125000000005,-87.804
+424,Joint Expeditionary Base Little Creek-Fort Story,va,act,usn,yes,36.91057142857142,-76.10090476190477
+425,Craney Island,va,act,usn,no,36.88875,-76.36699999999999
+426,NSA Saratoga Springs NY,ny,act,usn,no,43.0805,-73.82225
+427,Lafayette Rvr Complex,va,act,usn,no,36.902,-76.30175
+428,Pittsburgh IAP ANG,pa,act,airNationalGuard,no,40.49425,-80.21075
+429,Naval Support Activity Crane,in,act,usn,no,38.835181818181816,-86.79036363636364
+430,Bratenahl,oh,act,usn,no,41.542625,-81.62625
+431,Naval Weapons Station Earle NJ,nj,act,usn,no,40.257799999999996,-74.1594
+432,Fort Adams RI,ri,act,usn,no,41.47575,-71.33975
+433,Naval Station Norfolk,va,act,usn,no,36.94,-76.299125
+434,Naval Air Station Oceana,va,act,usn,no,36.82536363636363,-76.03245454545454
+435,Yorktown Fuel Depot,va,act,usn,no,37.21724999999999,-76.4875
+436,NAVMEDCEN Portsmouth VA,va,act,usn,no,36.84625,-76.3065
+437,SDA Area,va,act,usn,no,36.920500000000004,-76.31575000000001
+438,Redington Township,me,act,usn,no,44.98384615384616,-70.434
+439,NAVSUPPACT Hampton Roads VA,va,act,usn,no,36.924,-76.30075
+440,Fire Fighters School,va,act,usn,no,36.922,-76.32300000000001
+441,GL Camp JPJ,il,act,usn,no,42.29925,-87.854
+442,ALF Fentress Chesapke,va,act,usn,no,36.69566666666667,-76.1355
+443,Naval Support Activity Philadelphia,pa,act,usn,no,40.04125,-75.09475
+444,Glenview,il,act,usn,no,42.0915,-87.837
+445,Selfridge ANGB,mi,act,airNationalGuard,no,42.6162,-82.8305
+446,Naval Base Guam,gu,act,usn,yes,13.461906542056077,144.76290654205607
+447,Andersen Air Force Base,gu,act,usn,no,13.613285714285713,144.892
+448,Sea Plane Base,wa,act,usn,no,48.288333333333334,-122.61244444444444
+449,Naval Weapons Systems Training Facility Boardman,or,act,usn,no,45.73180952380953,-119.70433333333332
+450,Naval Logistics Support Activity - Ketchikan,ak,act,usn,no,55.540499999999994,-131.75924999999998
+451,Manchester,wa,act,usn,no,47.56675,-122.544
+452,Kodiak Tracking Station,ak,act,usn,no,57.82225,-152.332
+453,Naval Base Kitsap Bangor,wa,act,usn,no,47.712799999999994,-122.7116
+454,Naval Base Kitsap Bremerton WA,wa,act,usn,no,47.5578125,-122.64625000000001
+455,Naval Surface Warfare Center Carderock Division – Acoustic Research Detachment,id,act,usn,no,47.976437499999996,-116.55281249999999
+456,CNI NAVMAG Indian Island,wa,act,usn,no,48.0625,-122.72616666666666
+457,NAVSTA Everett WA,wa,act,usn,no,47.981125,-122.2415
+458,Offutt Air Force Base,ne,act,usaf,no,41.11521428571429,-95.91007142857143
+459,Marysville WA,wa,act,usn,no,48.12475,-122.1705
+460,Corry Station,fl,act,usn,no,30.403999999999996,-87.28575
+461,NAS Jacksonville FL,fl,act,usn,no,30.225818181818173,-81.68872727272729
+462,NOLF Evergreen,al,act,usn,no,31.417875000000002,-87.04425
+463,NOLF Santa Rosa,fl,act,usn,no,30.60975,-86.93925
+464,OLF Bravo,ms,act,usn,no,32.7996,-88.8314
+465,Naval Air Station Joint Reserve Base New Orleans,la,act,usnr,no,29.835727272727272,-90.02836363636362
+466,West Bank,la,act,usn,no,29.948100000000004,-90.03184999999999
+467,OLF Bronson,fl,act,usn,no,30.384538461538458,-87.42276923076922
+468,Saufley Field,fl,act,usn,no,30.4694,-87.34239999999998
+469,Naval Air Station Meridian,ms,act,usn,no,32.54206666666667,-88.57066666666667
+470,Northside Mid-South,tn,act,usn,no,35.345124999999996,-89.8605
+471,Naval Logistics Support Annex Orlando,fl,act,usn,no,28.584875,-81.198375
+472,NAS Kingsville TX,tx,act,usn,no,27.500249999999998,-97.81175
+473,Trumbo Point Annex,fl,act,usn,no,24.564749999999997,-81.7925
+474,NAS Pensacola FL,fl,act,usn,no,30.358533333333337,-87.29153333333332
+475,ALF Orange,tx,act,usn,no,27.89557142857143,-98.04071428571429
+476,Yankee Target Range,tx,act,usn,no,28.242333333333335,-98.724
+477,Woolmarket (De Soto),ms,act,usn,no,30.541800000000002,-88.97240000000001
+478,Truman Annex,fl,act,usn,no,24.551888888888893,-81.80772222222221
+479,CBC Gulfport MS,ms,act,usn,no,30.3772,-89.11959999999999
+480,Barin Field,al,act,usn,no,30.387615384615387,-87.63253846153846
+481,NOLF Spencer,fl,act,usn,no,30.626599999999996,-87.13799999999999
+482,NOLF Choctaw,fl,act,usn,no,30.507599999999996,-86.95360000000001
+483,Naval Air Station Corpus Christi,tx,act,usn,no,27.672976744186048,-97.3485
+484,Naval Support Activity Panama City,fl,act,usn,no,30.17125,-85.753375
+485,NAVSUPPFAC Beaufort SC,sc,act,usn,no,32.38999999999999,-80.6825
+486,FLC Fuel Depot Heckscher,fl,act,usn,no,30.39799999999999,-81.62724999999998
+487,NOLF Silverhill,al,act,usn,no,30.56525,-87.806375
+488,NOLF Brewton,al,act,usn,no,31.050399999999996,-87.064
+489,NOLF Summerdale,al,act,usn,no,30.505525,-87.64484999999999
+490,NSWC Carderock Div,tn,act,usn,no,35.088750000000005,-90.14025000000001
+491,Naval Submarine Base Kings Bay,ga,act,usn,no,30.807884615384616,-81.52565384615386
+492,NAS Fort Worth JRB TX,tx,act,usnr,no,32.772666666666666,-97.43033333333334
+493,NAVSTA Mayport FL,fl,act,usn,no,30.383941176470586,-81.43335294117647
+494,NOLF Holley,fl,act,usn,no,30.4255,-86.89325000000001
+495,NOLF Wolf,al,act,usn,no,30.34425,-87.54
+496,OLF Whitehouse,fl,act,usn,no,30.347461538461534,-81.85546153846154
+497,NAVSUPPACT Midsouth Memphis TN,tn,act,usn,no,35.3344,-89.86999999999999
+498,Fallon Range Complex,nv,act,usn,no,39.340725806451616,-118.5181612903226
+499,Naval Base Ventura County – Point Mugu Operating Facility,ca,act,usn,no,34.1178,-119.1114
+500,Broadway Complex,ca,act,usn,no,32.714,-117.172
+501,Navy Annex,ca,act,usn,no,36.59075,-121.86075
+502,Long Beach Fuel Complex,ca,act,usn,no,33.742999999999995,-118.2335
+503,San Pedro Fuel Depot,ca,act,usn,no,33.77525,-118.30025
+504,National City,ca,act,usn,no,32.671499999999995,-117.11325
+505,Holtville Carrier LS,ca,act,usn,no,32.83825,-115.209
+506,San Nicolas Island,ca,act,usn,no,33.249375,-119.50875
+507,NAVWPNSTA Seal Beach,ca,act,usn,no,33.7419756097561,-118.09214634146342
+508,Imperial Beach NOLF,ca,act,usn,no,32.566125,-117.118875
+509,Silver Strand South,ca,act,usn,no,32.59625,-117.12875000000001
+510,Target 101 Shade Tree,ca,act,usn,no,32.9571,-115.76379999999999
+511,San Clemente IS NALF,ca,act,usn,no,32.889680851063844,-118.50612765957445
+512,Old Town Site 1,ca,act,usn,no,32.74825,-117.19725
+513,Santa Cruz Island,ca,act,usn,no,33.9946875,-119.63187500000001
+514,CSO NAS Alameda,ca,care,usn,no,36.7805,-119.702
+515,NAVPMOSSP Magna Utah,ut,act,usn,no,40.68025,-112.073
+516,Warner Springs Rts,ca,act,usn,no,33.338875,-116.70849999999999
+517,NAVSUPPACT Monterey CA,ca,act,usn,no,36.599,-121.8735
+518,Amphib Base Coronado West,ca,act,usn,no,32.66974999999999,-117.16575
+519,Naval Air Weapons Station China Lake,ca,act,usn,no,35.61669117647058,-117.47513235294116
+520,Naval Base Ventura County – Port Hueneme Operating Facility,ca,act,usn,no,34.1654,-119.20439999999999
+521,South Point,ca,act,usn,no,32.66825,-117.24025
+522,Fallbrook California,ca,act,usn,no,33.3675,-117.28183333333332
+523,Dryside,ca,act,usn,no,32.68725,-117.12275
+524,Sewage Evaporation Pond,ca,act,usn,no,36.244,-119.88274999999999
+525,NAVPMOSSP Mtn View,ca,act,usn,no,37.4135,-122.02775
+526,Mission Gorge Rec Area,ca,act,usn,no,32.80375,-117.09625
+527,Camp Morena,ca,act,usn,no,32.71225,-116.51525
+528,Camp Michael Monsoor,ca,act,usn,no,32.68271428571428,-116.44971428571428
+529,Naval Weapons Station Seal Beach Detachment Norco,ca,act,usn,no,33.92475,-117.56925
+530,NAVBASE Coronado,ca,act,usn,no,32.698,-117.2008
+531,Amphib Base Coronado East,ca,act,usn,no,32.6665,-117.15400000000001
+532,Naval Base San Diego,ca,act,usn,no,32.677375,-117.118875
+533,NAVOBSSTA Flagstaff AZ,az,act,usn,no,35.19325,-111.74091666666668
+534,Arlington Service Ctr,va,act,usn,no,38.868249999999996,-77.07900000000001
+535,Naval Research Laboratory – Tilghman,md,act,usn,no,38.678,-76.3435
+536,Gambrills MD,md,act,usn,no,39.056999999999995,-76.6748
+538,Naval Air Station Patuxent River,md,act,usn,no,38.28933333333333,-76.41733333333333
+539,Webster Field,md,act,usn,no,38.14860000000001,-76.43140000000001
+540,NAVSUPPACT Bethesda MD,md,act,usn,no,39.003,-77.09025
+541,Naval Observatory,dc,act,usn,no,38.92099999999999,-77.06625
+543,Upper Yard Annapolis,md,act,usn,no,38.988499999999995,-76.4945
+544,Naval Support Facility Dahlgren,va,act,usn,no,38.342200000000005,-77.02940000000001
+545,Chesapeake Bay Detach,md,act,usn,no,38.659,-76.53075000000001
+546,Naval Research Laboratory,dc,act,usn,no,38.823375,-77.02225000000001
+547,Pumpkin Neck,va,act,usn,no,38.299,-77.04475
+548,NMIC Suitland,md,act,usn,no,38.84925,-76.93825000000001
+549,Naval Support Facility Indian Head,md,act,usn,no,38.586875,-77.170875
+550,Stump Neck Area,md,act,usn,no,38.5465,-77.21883333333332
+551,NAVACAD North Severn,md,act,usn,no,38.989200000000004,-76.4726
+552,NRC Solomons,md,act,usn,no,38.33365,-76.47749999999999
+554,NAF El Centro,ca,act,usn,no,32.8292,-115.66659999999999
+555,NAS Lemoore CA,ca,act,usn,no,36.318333333333335,-119.9331666666667
+556,Naval Base Point Loma,ca,act,usn,no,32.689514705882345,-117.24523529411765
+557,Defense Advanced Research Projects Agency,va,act,whs,no,38.8785,-77.10875
+558,Air Force Office of Scientific Research,va,act,whs,no,38.881,-77.10849999999999
+559,Mark Center,va,act,whs,no,38.829499999999996,-77.11825
+560,Pentagon,va,act,whs,no,38.87325,-77.0535
+561,NALF Goliad,tx,act,usn,no,28.6116,-97.6096
+562,Dredgers Key-Sigsbee,fl,act,usn,no,24.578625000000002,-81.773
+563,Fleming Key Magazine,fl,act,usn,no,24.585250000000002,-81.797
+564,Dixie Target Range,tx,act,usn,no,28.10044444444444,-98.74211111111111
+565,Pineros Island,pr,care,usn,no,18.250999999999998,-65.593
+566,Vieques West PR,pr,act,usn,no,18.09675,-65.51174999999999
+567,NAS Key West FL,fl,act,usn,no,24.584866666666667,-81.67229999999999
+568,Cabeza De Perro,pr,care,usn,no,18.24825,-65.5775
+569,Pico Del Este - AFWTF,pr,clsd,usn,no,18.2685,-65.75875
+570,NSGA Sabana Seca PR,pr,clsd,usn,no,18.427500000000002,-66.1885
+571,Det Concord (BRAC),ca,care,usn,no,37.99764705882353,-121.98841176470587
+572,NAS JRB Willow Grove PA,pa,care,usn,no,40.20725,-75.15025
+573,CSO NAS South Weymouth,ma,care,usn,no,42.15675,-70.9345
+574,NAS Brunswick ME,me,care,usn,no,43.90423529411765,-69.93658823529411
+575,Melrose Air Force Range,nm,act,usaf,no,34.30875,-103.7794375
+577,Ellsworth AFB,sd,act,usaf,no,44.141615384615385,-103.08938461538459
+579,Eareckson Air Station,ak,act,usaf,no,52.7266,174.10860000000002
+580,Air Force Plant 6,ga,act,usaf,no,33.91858333333334,-84.526
+581,Barry M Goldwater Range,az,act,usaf,no,32.886199999999995,-112.7284
+582,Gen Mitchell IAP,wi,act,airNationalGuard,no,42.94225,-87.888
+583,Duluth IAP,mn,act,airNationalGuard,no,46.84125,-92.19389285714284
+584,Mansfield Lahm Airport ANG 179th AW,oh,act,airNationalGuard,no,40.812250000000006,-82.51725
+585,Alpena County Regional Airport,mi,act,airNationalGuard,no,45.071,-83.56450000000001
+586,Point Arena Air Force Station,ca,care,usaf,no,38.89175,-123.54825000000001
+587,McClellan AFB,ca,clsd,usaf,no,38.668166666666664,-121.40583333333332
+588,Malmstrom Air Force Base,mt,act,usaf,no,47.50170000000001,-111.1922
+589,Fort Smith Map,ar,act,airNationalGuard,no,35.306076923076915,-94.25438461538462
+590,Tucson IAP,az,act,airNationalGuard,no,32.132000000000005,-110.94899999999998
+591,Hector IAP,nd,act,airNationalGuard,no,46.9135,-96.80175
+592,McEntire Joint National Guard Base,sc,act,airNationalGuard,no,33.919999999999995,-80.79322222222224
+593,Minot Air Force Base,nd,act,usaf,no,48.426700000000004,-101.33669999999998
+594,Fresno Yosemite International ANG,ca,act,airNationalGuard,no,36.77633333333333,-119.71541666666667
+595,Great Falls IAP,mt,act,airNationalGuard,no,47.47725,-111.364
+596,Montgomery Regional Airport ANGB,al,act,airNationalGuard,no,32.305,-86.40350000000001
+597,McLaughlin ANGB,wv,act,airNationalGuard,no,38.3735,-81.5885
+598,New Castle Airport,de,act,airNationalGuard,no,39.686875,-75.5975
+599,Jacksonville IAP,fl,act,airNationalGuard,no,30.225375,-81.83637499999999
+600,Hancock Field,ny,act,airNationalGuard,no,43.1105,-76.09475
+601,Bangor IAP,me,act,airNationalGuard,no,44.8185,-68.829
+602,General Wayne A Downing Peoria IAP,il,act,airNationalGuard,no,40.66525,-89.70774999999998
+603,Hulman Fld,in,act,airNationalGuard,no,39.4513125,-87.2970625
+604,Toledo/Exp Airport,oh,act,airNationalGuard,no,41.591375,-83.7955
+605,Truax ANGB,wi,act,airNationalGuard,no,43.1315,-89.332375
+606,Volk ANGB,wi,act,airNationalGuard,no,44.050250000000005,-90.185875
+607,Hardwood Range,wi,act,airNationalGuard,no,44.23933333333334,-90.0595
+608,Smoky Hill ANG Range,ks,act,airNationalGuard,no,38.678000000000004,-97.83354545454546
+609,Capital Airport,il,act,airNationalGuard,no,39.8475,-89.66725
+610,Salt Lake City IAP,ut,act,airNationalGuard,no,40.79225,-111.9565
+611,Goldwater ANGB,az,act,airNationalGuard,no,33.426249999999996,-112.0125
+612,Portland IAP ANG,or,act,airNationalGuard,no,45.579375,-122.592375
+613,Lincoln Map,ne,act,airNationalGuard,no,40.842000000000006,-96.753
+614,Rickenbacker,oh,act,airNationalGuard,no,39.813,-82.94475
+615,Quonset State Airport,ri,act,airNationalGuard,no,41.594500000000004,-71.41550000000001
+616,Ellington Field Joint Reserve Base,tx,act,airNationalGuard,no,29.605000000000004,-95.16916666666668
+617,Stewart IAP,ny,act,airNationalGuard,no,41.501999999999995,-74.08375000000001
+618,Pease ANGB NH,nh,act,airNationalGuard,no,43.0895,-70.81525
+619,Arbuckle Airfield,fl,act,usaf,no,27.661199999999997,-81.34920000000001
+620,Avon Park AF Range,fl,act,usaf,no,27.66480952380953,-81.31242857142858
+622,Nashville IAP,tn,act,airNationalGuard,no,36.110499999999995,-86.67475
+623,Birmingham Airport,al,act,airNationalGuard,no,33.573625,-86.753875
+624,Bradley IAP,ct,act,airNationalGuard,no,41.936,-72.69975000000001
+625,Forbes Field ANG,ks,act,airNationalGuard,no,38.949375,-95.68225
+626,Cheyenne Regional Airport,wy,act,airNationalGuard,no,41.161812499999996,-104.8168125
+627,Des Moines IAP,ia,act,airNationalGuard,no,41.545,-93.66525
+628,Luis Munoz Marin IAP,pr,act,usaf,no,18.440624999999997,-65.99462500000001
+629,Joe Foss Field,sd,act,airNationalGuard,no,43.58416666666667,-96.74149999999999
+630,Jackson IAP Thompson Field,ms,act,airNationalGuard,no,32.321083333333334,-90.08241666666667
+631,Martin State Airport,md,act,airNationalGuard,no,39.334,-76.4175
+632,Memphis IAP,tn,act,airNationalGuard,no,35.02775,-89.96700000000001
+633,Gulfport-Biloxi Regional Airport (ANG),ms,act,airNationalGuard,no,30.40925,-89.06174999999999
+634,Channel Islands ANG Station,ca,act,airNationalGuard,no,34.13725,-119.112
+635,Louisville IAP-Standiford FL Site 1,ky,act,airNationalGuard,no,38.177,-85.72175
+636,Reno Tahoe IAP,nv,act,airNationalGuard,no,39.5,-119.77374999999999
+637,Springfield Beckley,oh,act,airNationalGuard,no,39.849,-83.836
+638,Schenectady ANG MAP,ny,act,airNationalGuard,no,42.849000000000004,-73.92625000000001
+639,Will Rogers World Airport,ok,act,airNationalGuard,no,35.4065,-97.611
+640,Kingsley Field Cantonement Site 1,or,act,airNationalGuard,no,42.1599375,-121.7386875
+641,Burlington IAP,vt,act,airNationalGuard,no,44.47575,-73.15074999999999
+642,Tulsa IAP,ok,act,airNationalGuard,no,36.21725,-95.87375
+643,Boise Air Terminal,id,act,airNationalGuard,no,43.555625,-116.226125
+644,EWVRA Shepherd Field,wv,act,airNationalGuard,no,39.4085,-77.98575000000001
+645,Jacksonville FL Maint,fl,act,usmcr,no,30.405250000000002,-81.624
+646,NAVSUPPACT Annapolis,md,act,usn,no,38.98,-76.4845
+647,Naval Research Laboratory – Stennis Space Center,ms,act,usn,no,30.375555555555554,-89.61266666666667
+649,Savannah/Hilton Head IAP,ga,act,airNationalGuard,no,32.130624999999995,-81.19312500000001
+650,Ramey AF Solar Observatory Research Site,pr,act,usaf,no,18.509500000000003,-67.09925
+651,Verona Defense Fuel Support Point,ny,act,usaf,no,43.12650000000001,-75.5905
+652,Air Force Plant 44,az,act,usaf,no,32.094500000000004,-110.94024999999999
+653,Marine Corps Museum,va,act,usmc,no,38.52075,-77.36525
+654,Barnes Map ANG,ma,act,airNationalGuard,no,42.1705,-72.717
+655,Air Force Plant 4,tx,act,usaf,no,32.771,-97.45075
+656,Air Force Plant 42,ca,act,usaf,no,34.627428571428574,-118.091
+657,Rosecrans MAP (139AG),mo,act,airNationalGuard,no,39.766149999999996,-94.89959999999999
+658,Kaena Point Space Force Station,hi,act,usaf,no,21.567125,-158.25225
+659,Army Futures Command,tx,act,usa,no,30.269,-97.741
+660,Army Research Lab – Orlando Simulations and Training Technology Center,fl,act,usa,no,28.586,-81.19749999999999
+661,Army Research Office,nc,act,usa,no,35.994,-78.899
+662,Barter Island Regional Radar Site,ak,act,usaf,no,70.12957142857144,-143.60828571428573
+663,Biometric Technology Center Defense Forensics and Biometrics,wv,act,other,no,39.326499999999996,-80.2615
+664,Camp Blaz,gu,act,usn,no,13.56029411764706,144.8600588235294
+665,Cold Bay Regional Radar Site,ak,act,usaf,no,55.26225,-162.887
+666,Indian Mountain Regional Radar Site,ak,act,usaf,no,66.03066666666668,-153.72275
+667,Joint Base Anacostia-Bolling,dc,act,usaf,yes,38.8495,-77.012
+668,Joint Base Elmendorf-Richardson,ak,act,usaf,yes,61.275619047619045,-149.64697619047618
+670,Joint Base Lewis-McChord,wa,act,usa,yes,46.92401680672269,-121.74931092436971
+671,Joint Base McGuire-Dix-Lakehurst,nj,act,usaf,yes,40.00552941176471,-74.52201960784313
+672,Joint Base Pearl Harbor-Hickam,hi,act,usn,yes,21.362520599250935,-158.00522097378277
+673,Joint Expeditionary Base Little Creek-Fort Story - Wallops Island,va,act,usn,yes,37.89573333333333,-75.47206666666668
+674,Kenai Regional Radar Site,ak,act,usaf,no,60.56,-151.2555
+675,Kotzebue Regional Radar Site,ak,act,usaf,no,66.846,-162.599
+676,Lisburne Regional Radar Site,ak,act,usaf,no,68.869,-166.108
+678,Naval Logistics Support Facility Aguada,pr,act,usn,no,18.399749999999997,-67.178125
+679,Naval Logistics Support Facility Cutler,me,act,usn,no,44.678062499999996,-67.29325
+680,Romanzof Regional Radar Site,ak,act,usaf,no,61.78057142857143,-165.99128571428568
+681,Sparrevohn RRS,ak,act,usaf,no,61.10916666666666,-155.5835
+682,Tatalina Regional Radar Site,ak,act,usaf,no,62.89907692307692,-155.89384615384614
+683,Utah Test and Training Range,nv,act,usaf,no,40.79528125,-113.55643749999999
+685,Aberdeen Proving Ground,md,act,usa,no,39.41753846153846,-76.21146153846153
+686,Altus Air Force Base,ok,act,usaf,no,34.6695,-99.2765
+687,Naval Suffolk Facility,va,act,usn,no,36.883250000000004,-76.4225
+688,Goodfellow Air Force Base,tx,act,usaf,no,31.432058823529413,-100.4014705882353
+689,Joint Base Cape Cod,ma,act,armyNationalGuard,yes,41.68747058823529,-70.537
+690,Beale Air Force Base,ca,act,usaf,no,39.1355,-121.40899999999999
+691,Buckley Space Force Base,co,act,usaf,no,39.7095,-104.76566666666668
+692,Cape Canaveral Space Force Station,fl,act,usaf,no,28.50715789473684,-80.58678947368422
+693,Cape Newenham Long Range Radar Site,ak,act,usaf,no,58.644499999999994,-162.064
+694,Creech Air Force Base,nv,act,usaf,no,36.59204545454545,-115.68722727272726
+695,Edwards Air Force Base,ca,act,usaf,no,34.926315789473676,-117.84215789473686
+696,Yukon Weapons Range,ak,act,usaf,no,64.7633,-146.8873
+697,Eielson Air Force Base,ak,act,usaf,no,64.6815,-147.058
+699,Fort Drum,ny,act,usa,no,44.100199999999994,-75.64268
+700,Shaw Air Force Base,sc,act,usaf,no,33.97023076923077,-80.47984615384614
+701,Luke AFB,az,act,usaf,no,33.5868,-112.40405000000001
+702,Marine Corps Base Camp Lejeune,nc,act,usmc,no,34.61944642857143,-77.33360714285713
+703,Naval Air Station Whidbey Island,wa,act,usn,no,48.33449999999999,-122.63949999999997
+704,Naval Base Kitsap - Keyport,wa,act,usn,no,47.69949999999999,-122.61975000000001
+705,Nellis Air Force Base,nv,act,usaf,no,36.27140740740741,-115.00892592592592
+706,Nevada Test and Training Range,nv,act,usaf,no,37.25645833333333,-116.27858333333332
+707,Naval Logistics Support Activity LaMoure,nd,act,usn,no,46.36425,-98.33975
+708,Patrick Space Force Base,fl,act,usaf,no,28.241500000000002,-80.60475
+709,Picatinny Arsenal,nj,act,usa,no,40.95666666666667,-74.53699999999999
+710,Rock Island Arsenal,il,act,usa,no,41.515,-90.536
+711,Tin City Long Range Radar Site,ak,act,usaf,no,65.5684,-167.95186666666666
+712,Travis Air Force Base,ca,act,usaf,no,38.272,-121.93477777777778
+713,Travis System Annex No 2,ca,act,usaf,no,38.324250000000006,-121.9245
+714,Badger AAP,wi,excs,usa,no,43.35845833333334,-89.74016666666667
+715,Fort Gillem Enclave Site,ga,act,usa,no,33.61579999999999,-84.34219999999999
+716,Fort Monmouth Main Post,nj,clsd,usa,no,40.30840909090909,-74.0701590909091
+717,Hickam Petrol Strg Ann,hi,act,usn,no,21.45575,-158.03375
+718,Homestead ARB,fl,act,afr,no,25.499761904761904,-80.39328571428571
+719,Jim Creek,wa,act,usn,no,48.193714285714286,-121.92157142857143
+720,Joliet AAP Elwood,il,excs,usa,no,41.35781250000001,-88.06575000000001
+721,Kamokala Ridge,hi,act,usn,no,22.0385,-159.7535
+722,NARL Barrow Camp Tr1,ak,act,usn,no,71.32677777777778,-156.6451111111111
+723,NAS Whiting Field Milton FL,fl,act,usn,no,30.716333333333335,-87.01783333333333
+724,NAVSUPPACT Mechanicsburg PA,pa,act,usn,no,40.22825,-76.98875000000001
+725,Twin Cities AAP,mn,semi,usa,no,45.095,-93.172
+726,OLF Coupeville,wa,act,usn,no,48.19807142857144,-122.6342142857143
+727,Ozol Defense Fuel Support Point,ca,act,usaf,no,38.025125,-122.166125
+728,Rocky Mountain Arsenal,co,clsd,usa,no,39.862704545454555,-104.84634090909086
+730,Atlantic City IAP,nj,act,airNationalGuard,no,39.70771428571429,-74.43999999999998
+731,Dania Beach (Lauderdale),fl,act,usn,no,26.09225,-80.11
+732,England Authority,la,act,usa,no,31.33725,-92.541875
+733,Francis S Gabreski Airport,ny,act,airNationalGuard,no,40.835125,-72.640125
+734,Sioux Gateway Airport (ANG),ia,act,airNationalGuard,no,42.39333333333334,-96.37391666666667
+735,Balboa Hospital,ca,act,usn,no,32.727,-117.145
+736,Brooklyn NY,ny,act,usmcr,no,40.582,-73.87925
+738,Cannon Air Force Base,nm,act,usaf,no,34.388000000000005,-103.3222
+739,Chocolate Mountain Aerial Gunnery Range,ca,act,usmc,no,33.346928571428556,-115.3491
+740,Cusick Survival Training Site,wa,act,usaf,no,48.487624999999994,-117.387
+741,Def Gen Supply Center,va,act,usa,no,37.421,-77.44675
+743,Francis E. Warren Air Force Base,wy,act,usaf,no,41.17333333333333,-104.86449999999998
+744,Fairchild Air Force Base,wa,act,usaf,no,47.61125,-117.652625
+745,Former NTC,ca,act,usmc,no,32.729749999999996,-117.22
+746,Fort Greely,ak,act,usa,no,63.9752,-145.72511999999998
+747,Fort Leavenworth,ks,act,usa,no,39.361,-94.91836363636365
+748,Fort Wingate Depot Activity,nm,act,usa,no,35.466130434782606,-108.59630434782609
+753,Harbor Drive,ca,act,usmc,no,32.7295,-117.208
+754,Hunter Army Airfield,ga,act,usa,no,32.01416666666666,-81.149
+766,Joint Base Charleston,sc,act,usaf,yes,32.96458260869565,-80.01650434782609
+767,Joint Base Langley-Eustis,va,act,usaf,yes,37.120374999999996,-76.46346875
+771,Kirtland Air Force Base,nm,act,usaf,no,35.036904761904765,-106.53128571428572
+772,MC Trng Area Bellows,hi,act,usmc,no,21.3675,-157.72050000000002
+773,Marine Corps Air Station Miramar,ca,act,usmc,no,32.86743333333333,-117.09806666666665
+774,Marine Corps Base Camp Pendleton,ca,act,usmc,no,33.39272,-117.37711999999999
+775,"Marine Corps Base Hawaii, Camp H.M. Smith",hi,act,usmc,no,21.387999999999998,-157.90425
+776,Marine Corps Base Hawaii,hi,act,usmc,no,21.445333333333334,-157.75066666666666
+777,Marine Corps Base Quantico,va,act,usmc,no,38.55658823529411,-77.41711764705882
+778,Marine Corps Logistics Base Barstow,ca,act,usmc,no,34.863,-116.94171428571427
+779,MCRD San Diego,ca,act,usmc,no,32.74075,-117.19625
+780,MCRD San Diego,ca,act,usmc,no,32.74075,-117.19625
+781,Marine Corps Support Facility Blount Island,fl,act,usmc,no,30.400799999999997,-81.5236
+782,Naval Support Activity Wash,dc,act,usn,no,38.8735,-76.9945
+783,NG Atlanta United Ave,ga,act,armyNationalGuard,no,33.722,-84.359
+784,NG Ayer,ma,act,armyNationalGuard,no,42.54875,-71.58449999999999
+785,NG Baton Rouge AFRC,la,act,armyNationalGuard,no,30.358000000000004,-91.13975
+786,NG Beauregard Training Range,la,act,armyNationalGuard,no,31.435538461538457,-92.2823076923077
+787,NG Bend Cotef,or,act,armyNationalGuard,no,44.02575,-121.128
+788,NG Bergstrom - (Abia),tx,act,armyNationalGuard,no,30.176,-97.6725
+789,NG Bethany Beach Training Site,de,act,armyNationalGuard,no,38.54675,-75.0635
+790,NG Biak Training Center COUTES,or,act,armyNationalGuard,no,44.220625000000005,-121.10645833333335
+791,NG Bismarck RJB Complex,nd,act,armyNationalGuard,no,46.829,-100.72
+792,NG Buckeye TS,az,act,armyNationalGuard,no,33.462,-112.59859999999999
+793,NG Camp Adair Corvallis,or,act,armyNationalGuard,no,44.7156,-123.26880000000001
+794,NG Camp Bowie (State),tx,act,armyNationalGuard,no,31.636166666666668,-98.92766666666667
+795,NG Camp Fogarty Tng Site,ri,act,armyNationalGuard,no,41.613625,-71.495375
+796,NG Camp Fogarty Tng Site,ri,act,armyNationalGuard,no,41.613625,-71.495375
+797,NG Camp Grafton,nd,act,armyNationalGuard,no,47.76499999999999,-98.70272727272727
+798,NG Camp Gruber,ok,act,armyNationalGuard,no,35.70561538461538,-95.1853846153846
+799,NG Camp Hartell,ct,act,armyNationalGuard,no,41.94175,-72.66725
+800,NG Camp Mabry,tx,act,armyNationalGuard,no,30.31975,-97.7635
+801,NG Camp Maxey,tx,act,armyNationalGuard,no,33.80933333333334,-95.55011111111111
+802,NG Camp Minden Training Site,la,act,armyNationalGuard,no,32.57209090909091,-93.37781818181817
+803,Camp Navajo,az,act,armyNationalGuard,no,35.19775,-111.83908333333335
+804,NG Camp Nett,ct,act,armyNationalGuard,no,41.33175,-72.18675000000002
+805,NG Camp Rapid,sd,act,armyNationalGuard,no,44.08125,-103.267
+806,NG Camp Swift,tx,act,armyNationalGuard,no,30.26816666666667,-97.29683333333334
+807,NG Camp Villere,la,act,armyNationalGuard,no,30.325400000000002,-89.806
+808,NG Camp Withycombe Clackamas,or,act,armyNationalGuard,no,45.413,-122.55850000000001
+809,NG CTA Camp Mccain,ms,act,armyNationalGuard,no,33.7202,-89.6864
+810,NG Cumming,ga,act,armyNationalGuard,no,34.22475,-84.1135
+811,NG Ethan Allen AFB MTA,vt,act,armyNationalGuard,no,44.511,-73.1665
+812,NG Florence Military Reservation,az,act,armyNationalGuard,no,33.08186363636364,-111.36604545454544
+813,NG Fort Chaffee MTC,ar,act,armyNationalGuard,no,35.290479999999995,-94.22808
+814,NG Fort Indiantown Gap,pa,act,armyNationalGuard,no,40.429465116279076,-76.62344186046512
+815,NG Fort McClellan ARNG Tng Center,al,act,armyNationalGuard,no,33.7340625,-85.7866875
+818,NG Fort Wolters,tx,act,armyNationalGuard,no,32.8576,-98.02873333333334
+819,NG Fort Worth - Shoreview,tx,act,armyNationalGuard,no,32.77875,-97.4565
+820,NG Frankfort Boone NG Center,ky,act,armyNationalGuard,no,38.186749999999996,-84.9095
+821,NG General Lucius D Clay National Guard Center,ga,act,armyNationalGuard,no,33.91374999999999,-84.5295
+823,NG Greenlief TS/UTES 01,ne,act,armyNationalGuard,no,40.5512,-98.2744
+824,NG Gulfport AVCRAD,ms,act,armyNationalGuard,no,30.410083333333333,-89.06299999999999
+825,NG Havre De Grace Military Res,md,act,armyNationalGuard,no,39.5315,-76.10374999999999
+826,NG Hollidaysburg Readiness Center,pa,act,armyNationalGuard,no,40.43875,-78.41575
+827,NG JFHQ-Kansas,ks,act,armyNationalGuard,no,39.02025,-95.68425
+828,NG Lane County AFRC FMS 5,or,act,armyNationalGuard,no,44.066,-122.977
+829,NG Macon Readiness Center,ga,act,armyNationalGuard,no,32.8615,-83.60475
+831,NG Macon TS,mo,act,armyNationalGuard,no,39.675466666666665,-92.50506666666665
+835,NG Martindale - AASF,tx,act,armyNationalGuard,no,29.43425,-98.37975
+836,NG McNary Field Salem AASF,or,act,armyNationalGuard,no,44.91175,-122.9985
+837,NG MTA Camp Crowder Neosho,mo,act,armyNationalGuard,no,36.8029,-94.3606
+838,NG MTA Camp Fretterd,md,act,armyNationalGuard,no,39.49675,-76.851
+839,NG MTA Camp Rilea,or,act,armyNationalGuard,no,46.128,-123.94440000000002
+840,Camp Shelby,ms,act,armyNationalGuard,no,31.08789189189189,-89.03278378378378
+841,NG MTA Clarks Hill Reservation,sc,act,armyNationalGuard,no,33.79623076923077,-82.27700000000002
+842,NG MTA Gunpowder Military Reservation,md,act,armyNationalGuard,no,39.43375,-76.50274999999999
+843,NG MTA Limestone Hills,mt,act,armyNationalGuard,no,46.273230769230764,-111.56223076923077
+844,NG MTA Limestone Hills,mt,act,armyNationalGuard,no,46.273230769230764,-111.56223076923077
+845,NG MTCH Camp Guernsey,wy,act,armyNationalGuard,no,42.30440151515151,-104.81706818181817
+846,NG New Castle Readiness Center/FMS 9,pa,act,armyNationalGuard,no,40.979749999999996,-80.32499999999999
+847,NG Oglethorpe Armory,ga,act,armyNationalGuard,no,33.616749999999996,-84.30975000000001
+848,NG Papago Military Reservation,az,act,armyNationalGuard,no,33.46775,-111.96212499999999
+849,NG Picacho Aviation TS,az,act,armyNationalGuard,no,32.6635,-111.48975
+850,NG River Road Training Site,de,act,armyNationalGuard,no,39.63225,-75.60575
+851,NG Saginaw,tx,act,armyNationalGuard,no,32.857749999999996,-97.34899999999999
+852,NG Salina KS Training Center,ks,act,armyNationalGuard,no,38.786156250000005,-97.637375
+853,NG Silver Bell Army Heliport,az,act,armyNationalGuard,no,32.523,-111.33125
+854,NG Sioux Falls Benson Rd Complex,sd,act,armyNationalGuard,no,43.588812499999996,-96.6838125
+855,NG Stones Ranch Military Res,ct,act,armyNationalGuard,no,41.35723076923077,-72.27092307692307
+856,NG TS Ethan Allen Range,vt,act,armyNationalGuard,no,44.467749999999995,-72.89237499999999
+857,NG TS Ike Skelton Jefferson City,mo,act,armyNationalGuard,no,38.55275,-92.07175
+858,NG Volkstone,wv,act,armyNationalGuard,no,39.458,-79.665
+859,NG VTS Milan,tn,act,armyNationalGuard,no,35.877583333333334,-88.70525000000002
+860,NG WH Ford Regional Tng Ctr,ky,act,armyNationalGuard,no,37.27663414634146,-87.20539024390243
+861,NGA Arnold Site,mo,act,usaf,no,38.415749999999996,-90.39874999999999
+862,Naval Support Facility Carderock,md,act,usn,no,38.976,-77.188625
+863,Pearl City Annex,hi,act,usmc,no,21.38325,-157.97175000000001
+864,Pillar Point Space Force Station,ca,act,usaf,no,37.499,-122.4975
+865,Puuloa-Oahu,hi,act,usmc,no,21.3185,-157.9875
+866,Rome Research Laboratory,ny,act,usaf,no,43.223875,-75.410125
+867,Tropic Regions Test Center,hi,act,usa,no,21.4903125,-158.03271875
+868,Seward Recreation Area,ak,act,usa,no,60.1335,-149.4325
+869,Townsend Bombing Range,ga,act,usmc,no,31.493528925619835,-81.65120661157025
+870,USAF Academy Site 2,co,act,usaf,no,39.00432398753894,-104.83840342679129
+871,Waianae Kai Military Reservation,hi,act,usa,no,21.44775,-158.191875
+872,Watervliet Arsenal,ny,act,usa,no,42.721000000000004,-73.70949999999999
+873,Wheeler Army Airfield,hi,act,usa,no,21.4704,-158.03140000000002
+874,White Bluff,wa,act,usaf,no,47.702999999999996,-117.58025
+875,Yermo Area,ca,act,usmc,no,34.88955555555556,-116.87522222222222
+876,Youngstown,oh,act,afr,no,41.2665,-80.67175
+877,1LT John A Fera USARC,ma,act,usar,no,42.58875,-70.944
+887,1SG Robert L Kuhn USARC,ks,act,usar,no,38.860499999999995,-99.279
+888,NNSY Scott Center,va,act,usn,no,36.81,-76.3125
+889,Paradise Creek North,va,act,usn,no,36.80425,-76.30525
+891,NAVRESCEN Schenectady,ny,act,usn,no,42.8575,-73.931
+892,Outdoor Recreation Ctr,ny,act,usn,no,43.0305,-73.896
+895,Racon Hill,wa,act,usn,no,48.323499999999996,-122.6645
+896,NOLF Harold,fl,act,usn,no,30.678000000000004,-86.88300000000001
+897,DLA - DRMS,fl,act,usn,no,30.198500000000003,-81.7085
+898,Riverine Range,ms,act,usn,no,30.388166666666663,-89.65266666666668
+899,NRC-MCRC Tallahassee,fl,act,usnr,no,30.42975,-84.338
+900,Lake Allatoona Area,ga,act,usn,no,34.09275,-84.723
+901,Tillie Fowler Park,fl,act,usn,no,30.2365,-81.703125
+902,Cecil Field NADEP,fl,act,usn,no,30.228583333333333,-81.88212499999999
+903,Dixie Valley,nv,act,usn,no,39.70828571428571,-118.0528021978022
+905,Santa Rosa Parcel A,gu,act,usn,no,13.53925,144.91474999999997
+906,TR SI Saddlebunch Keys,fl,act,usn,no,24.643,-81.59675
+907,NAVRESCEN W Palm Beach,fl,act,usnr,no,26.69325,-80.093
+908,King Ranch,tx,act,usn,no,27.527,-98.10975
+909,NAVRESCEN Puerto Rico,pr,act,usnr,no,18.41075,-66.1115
+910,Galveston TX MCRC,tx,act,usmcr,no,29.33475,-94.76775
+911,MARFORRES HQTRS,la,act,usmcr,no,29.950000000000003,-90.03575000000001
+912,"Des Moines, IA",ia,act,usmcr,no,41.740249999999996,-93.76725
+913,Martinez Lake,az,act,usmc,no,32.9865,-114.475
+914,Juniper Butte Range,id,act,usaf,no,42.2998,-115.33680000000001
+917,Patriot Golf Course,ma,act,usaf,no,42.5035,-71.268
+918,Fort Tuthill Recreation Annex,az,act,usaf,no,35.1395,-111.695
+919,Laughlin Recreation Annex,tx,act,usaf,no,29.47475,-101.03349999999999
+920,Eglin AFB Site 4 Okaloosa Island,fl,act,usaf,no,30.393500000000003,-86.55125000000001
+921,PFC S C Aviles Salinas,pr,act,usar,no,17.981250000000003,-66.29575
+922,Pinellas Park AFRC,fl,act,usar,no,27.853749999999998,-82.67349999999999
+923,NG So Burlington AASF and RC,vt,act,armyNationalGuard,no,44.483000000000004,-73.16575
+924,CPT David D Phillips USARC,mi,act,usar,no,42.2615,-84.43150000000001
+925,NG Hams Bluff Training Facility,vi,care,armyNationalGuard,no,17.768749999999997,-64.8745
+926,NG AASF,ct,act,armyNationalGuard,no,41.943250000000006,-72.674
+927,NG Aguadilla Readiness Center,pr,act,armyNationalGuard,no,18.494500000000002,-67.142875
+928,Fort Wm Harrison AMSA 75 G,mt,act,usar,no,46.627,-112.096
+929,Clarksburg AMSA 102 G,wv,act,usar,no,39.269000000000005,-80.36649999999999
+930,NG Boyd M Cook Armory,md,care,armyNationalGuard,no,39.6955,-77.50075000000001
+931,NG Hiller Readiness Center,pa,act,armyNationalGuard,no,40.01125,-79.91
+932,Chattanooga (VAAP) USARC,tn,act,usar,no,35.075,-85.15324999999999
+933,CPL JG Rosario/Aquadilla,pr,act,usar,no,18.4105,-67.154
+934,CPT PJ Parra/Ponce,pr,act,usar,no,17.994999999999997,-66.60725
+935,Def Distr Reg West Sharpe Site,ca,act,usa,no,37.843937499999996,-121.269625
+936,Eldridge-Harrington USARC,ar,act,usar,no,35.06025,-92.41
+937,Elmer E Fryar USARC,co,act,usar,no,39.72475,-105.11325
+938,Fremont USARC,ne,act,usar,no,41.44275,-96.5205
+939,Gerry USARC,ny,act,usar,no,42.191250000000004,-79.2475
+940,NG Gowen Field Boise,id,act,armyNationalGuard,no,43.55833333333334,-116.23000000000002
+941,Greenwood USARC/AMSA 144 (G),ms,act,usar,no,33.4965,-90.0745
+942,NG Humacao Readiness Center,pr,act,armyNationalGuard,no,18.15375,-65.82849999999999
+943,"Kirksville USARC
+R",mo,act,usar,no,40.224999999999994,-92.59325
+944,Lewis and Clark USARC,nd,act,usar,no,46.76725,-100.76149999999998
+945,Lock Haven USARC,pa,act,usar,no,41.15175000000001,-77.3485
+946,Mead LTA,ne,act,usar,no,41.1452,-96.41799999999999
+947,NG Minot AFRC,nd,act,armyNationalGuard,no,48.27325,-101.287
+948,Morgantown USARC,wv,semi,usar,no,39.587,-79.9525
+949,MSG D Claudio/Caguas,pr,act,usar,no,18.21875,-66.04325
+950,New Castle AMSA 110 (G),pa,act,usar,no,41.0075,-80.3865
+951,New River Valley Mem USARC,va,act,usar,no,37.084500000000006,-80.6695
+952,NG Warwick,ri,act,armyNationalGuard,no,41.73375,-71.4245
+953,NG West VA Ord Works,wv,act,armyNationalGuard,no,38.925,-82.09375
+954,NG Orlando Naval Training Center,fl,act,armyNationalGuard,no,28.445999999999998,-81.338875
+955,PFC L G Oliveras Yauco,pr,act,usar,no,18.024250000000002,-66.86275
+956,Pocahontas USARC,ia,care,usar,no,42.746750000000006,-94.65
+957,Special Forces Site Key West,fl,act,usa,no,24.593,-81.79724999999999
+958,St Joseph USARC,mo,act,usar,no,39.7785,-94.80449999999999
+959,St Louis 4/Ord Plant,mo,care,usar,no,38.695750000000004,-90.26774999999999
+960,NG TS Waco LTA,mt,act,armyNationalGuard,no,46.01240000000001,-107.80249999999998
+961,USAR Keystone Ord Outdoor Tng,pa,act,usar,no,41.552375,-80.23775
+962,Ft Nathaniel Greene USARC,ri,act,usar,no,41.38275,-71.485
+963,NG Wilder,id,act,armyNationalGuard,no,43.67325,-116.96799999999999
+964,Wilson USARC,nc,act,usar,no,35.76525,-77.96375
+965,NG Worcester Skyline Drive,ma,act,armyNationalGuard,no,42.2805,-71.77825
+966,Butte USARC,mt,act,usar,no,45.92475,-112.511
+967,Dodge City USARC GTA,ks,act,usar,no,37.7255,-100.03450000000001
+968,NG JFHQ Augusta ME,me,act,armyNationalGuard,no,44.35225,-69.7955
+969,NG PRARNG MMS Boatshop,pr,act,armyNationalGuard,no,18.231749999999998,-65.62124999999999
+970,Charles County USARC,md,act,usar,no,38.586,-76.954
+971,Constitution Island,ny,act,usa,no,41.40625,-73.95325
+972,NG Lathrop,ca,act,armyNationalGuard,no,37.85425,-121.26724999999999
+973,Bristol County USARC,ma,act,usar,no,41.89775,-71.07625
+974,Fairchild Recreation Annex,wa,act,usaf,no,47.52025,-117.69075000000001
+976,Tonopah Auxiliary Airfield Annex 2,nv,act,usaf,no,37.88375,-116.7655
+977,Keesler Training Annex No 1,ms,act,usaf,no,30.40825,-88.95649999999999
+979,Tinker Aerospace Addition,ok,act,usaf,no,35.40075,-97.39250000000001
+980,General Mitchell IAP Guard East,wi,act,airNationalGuard,no,42.944,-87.8825
+981,Fort Wayne IAP-3 8785 Acres,in,act,airNationalGuard,no,40.9815,-85.17949999999999
+982,Fort Wayne IAP-2 1877 Acres,in,act,airNationalGuard,no,40.98625,-85.176
+983,Sioux Gateway Airport ANG-CE Site 2,ia,act,airNationalGuard,no,42.3925,-96.36925000000001
+985,Tonopah AFS Z164,nv,act,usaf,no,38.09925,-117.21499999999999
+989,NUWC Fishers Island NY,ny,act,usn,no,41.25575,-72.006
+991,Grand Forks AFB,nd,act,usaf,no,47.96284615384615,-97.37346153846154
+992,Potrero Hills Storage Annex,ca,semi,usaf,no,38.202875,-121.933625
